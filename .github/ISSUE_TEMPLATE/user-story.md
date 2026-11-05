@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Default template for Vectroq user stories
-title: 'USER STORY: '
+title: ''
 labels: ''
 assignees: ''
 ---
